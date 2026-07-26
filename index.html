@@ -1,0 +1,470 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Generate Mountain Climber and Mountain Climber EX seeds!"
+    />
+    <meta name="theme-color" content="#31343a" />
+    <title>Mountain Climber Generator</title>
+  </head>
+  <body>
+    <main id="app">
+      <svg class="svg-definitions" aria-hidden="true">
+        <defs>
+          <linearGradient id="panel-tint" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0" stop-color="hsl(240 90% 80%)" stop-opacity="0.4" />
+            <stop offset="1" stop-color="hsl(240 80% 70%)" stop-opacity="0.5" />
+          </linearGradient>
+          <filter
+            id="panel-inner-shadow"
+            x="-20%"
+            y="-20%"
+            width="140%"
+            height="140%"
+            color-interpolation-filters="sRGB"
+          >
+            <feComponentTransfer in="SourceAlpha" result="solid-alpha">
+              <feFuncA type="table" tableValues="0 1" />
+            </feComponentTransfer>
+            <feMorphology
+              in="solid-alpha"
+              operator="erode"
+              radius="10"
+              result="edge-inner"
+            />
+            <feComposite
+              in="solid-alpha"
+              in2="edge-inner"
+              operator="out"
+              result="edge-mask"
+            />
+            <feFlood flood-color="#02020e" flood-opacity="0.18" result="edge-color" />
+            <feComposite
+              in="edge-color"
+              in2="edge-mask"
+              operator="in"
+              result="edge-shadow"
+            />
+            <feGaussianBlur in="solid-alpha" stdDeviation="20" result="top-blur" />
+            <feOffset in="top-blur" dy="16" result="top-offset" />
+            <feComposite
+              in="solid-alpha"
+              in2="top-offset"
+              operator="out"
+              result="top-mask"
+            />
+            <feFlood flood-color="#01010a" flood-opacity="0.18" result="top-color" />
+            <feComposite
+              in="top-color"
+              in2="top-mask"
+              operator="in"
+              result="top-shadow"
+            />
+            <feMerge>
+              <feMergeNode in="SourceGraphic" />
+              <feMergeNode in="edge-shadow" />
+              <feMergeNode in="top-shadow" />
+            </feMerge>
+          </filter>
+        </defs>
+      </svg>
+
+      <div id="bridge-backdrop" class="bridge-backdrop" aria-hidden="true">
+        <div class="bridge-track">
+          <span class="bridge-left"></span>
+          <span class="bridge-center"></span>
+          <span class="bridge-right"></span>
+        </div>
+      </div>
+      <div class="top-dimming-gradient" aria-hidden="true"></div>
+
+      <div class="site-shell">
+        <header class="site-header">
+          <svg
+            class="site-panel"
+            viewBox="0 0 1000 320"
+            preserveAspectRatio="none"
+            aria-hidden="true"
+          >
+            <g filter="url(#panel-inner-shadow)">
+              <polygon
+                points="290,0 1000,73.6 1000,320 0,320 0,73.6"
+                fill="hsl(240 30% 8%)"
+                fill-opacity="0.28"
+              />
+              <polygon
+                points="290,0 1000,73.6 1000,320 0,320 0,73.6"
+                fill="url(#panel-tint)"
+              />
+            </g>
+          </svg>
+          <img
+            class="old-man-sprite"
+            src="./old-man.png"
+            width="48"
+            height="48"
+            alt=""
+          />
+          <p class="eyebrow">A Link to the Past randomizer</p>
+          <h1>Mountain Climber</h1>
+          <p id="system-version" class="system-version"></p>
+          <div class="climbing-kit-icons" aria-hidden="true">
+            <span><img src="./items/hookshot.png" alt="" /></span>
+            <span><img src="./items/hammer.png" alt="" /></span>
+            <span><img src="./items/power-glove.png" alt="" /></span>
+            <span><img src="./items/moon-pearl.png" alt="" /></span>
+          </div>
+        </header>
+
+        <section class="generator-card" aria-label="Seed generator">
+          <p id="link-lock-note" class="link-lock-note" hidden>
+            Some settings came from the shared link and are locked.
+            Click "Reset" to change them.
+          </p>
+          <form id="generator-form" novalidate>
+            <div class="form-row">
+              <div class="form-label">
+                <label for="rom">Japanese v1.0 ROM</label>
+                <span>1 MiB · .sfc or .smc</span>
+              </div>
+              <div class="form-control">
+                <input id="rom" name="rom" type="file" accept=".sfc,.smc" required />
+                <div id="rom-ready" class="rom-ready" hidden>
+                  <span class="rom-ready-icon" aria-hidden="true">✓</span>
+                  <span>
+                    <strong>Valid Japanese v1.0 ROM</strong>
+                    <small>Saved in-browser</small>
+                  </span>
+                </div>
+              </div>
+            </div>
+
+            <div class="form-row">
+              <div class="form-label">
+                <label for="mode">Mode</label>
+                <span>Choose the entrance rules</span>
+              </div>
+              <div class="form-control">
+                <select id="mode" name="mode">
+                  <option value="mountain-climber">Mountain Climber</option>
+                  <option value="mountain-climber-ex">Mountain Climber EX</option>
+                </select>
+                <p id="mode-description" class="field-note"></p>
+              </div>
+            </div>
+
+            <section
+              id="customization-panel"
+              class="customization-panel"
+              aria-labelledby="customization-title"
+            >
+              <div class="customization-heading">
+                <h3 id="customization-title">Game options</h3>
+                <span>Saved in this browser</span>
+              </div>
+              <div class="customization-grid">
+                <div class="sprite-option">
+                  <label>
+                    <span>Player sprite</span>
+                    <select id="player-sprite" name="player-sprite">
+                      <option value="vanilla">Link (vanilla)</option>
+                      <option value="custom">Load a custom sprite</option>
+                    </select>
+                  </label>
+                  <input
+                    id="custom-sprite"
+                    name="custom-sprite"
+                    type="file"
+                    accept=".zspr,.spr"
+                    hidden
+                  />
+                  <p id="sprite-detail" class="field-note"></p>
+                </div>
+                <label>
+                  <span>Heart color</span>
+                  <select id="heart-color" name="heart-color">
+                    <option value="red">Red</option>
+                    <option value="blue">Blue</option>
+                    <option value="green">Green</option>
+                    <option value="yellow">Yellow</option>
+                  </select>
+                </label>
+                <label>
+                  <span>Low-health beep</span>
+                  <select id="heart-beep" name="heart-beep">
+                    <option value="off">Off</option>
+                    <option value="half">Half speed</option>
+                    <option value="quarter">Quarter speed</option>
+                    <option value="normal" selected>Normal</option>
+                    <option value="double">Double speed</option>
+                  </select>
+                </label>
+                <label>
+                  <span>Menu speed</span>
+                  <select id="menu-speed" name="menu-speed">
+                    <option value="instant">Instant</option>
+                    <option value="double">Double</option>
+                    <option value="triple">Triple</option>
+                    <option value="quadruple">Quadruple</option>
+                    <option value="half">Half</option>
+                    <option value="normal" selected>Normal</option>
+                  </select>
+                </label>
+              </div>
+              <div class="customization-toggles">
+                <label class="check compact-check">
+                  <input id="quickswap" name="quickswap" type="checkbox" />
+                  <span>
+                    <strong>Quickswap</strong>
+                    <small>Swap items with L and R</small>
+                  </span>
+                </label>
+                <label class="check compact-check">
+                  <input
+                    id="reduce-flashing"
+                    name="reduce-flashing"
+                    type="checkbox"
+                  />
+                  <span>
+                    <strong>Reduce flashing</strong>
+                    <small>Best to reduce flashing for streaming</small>
+                  </span>
+                </label>
+                <label class="check compact-check">
+                  <input id="music" name="music" type="checkbox" />
+                  <span>
+                    <strong>Background music</strong>
+                    <small>Uncheck to disable BGM</small>
+                  </span>
+                </label>
+                <label class="check compact-check">
+                  <input id="msu-resume" name="msu-resume" type="checkbox" />
+                  <span>
+                    <strong>MSU resume</strong>
+                    <small>Resume tracks after room transitions</small>
+                  </span>
+                </label>
+              </div>
+            </section>
+
+            <details class="advanced-options">
+              <summary><span>Advanced options</span></summary>
+              <div class="advanced-content">
+                <div class="form-row">
+                  <div class="form-label">
+                    <label for="seed">Seed</label>
+                    <span>Optional · 0-999999999</span>
+                  </div>
+                  <div class="form-control">
+                    <input
+                      id="seed"
+                      name="seed"
+                      type="number"
+                      min="0"
+                      max="999999999"
+                      step="1"
+                      inputmode="numeric"
+                    />
+                    <p id="seed-detail" class="field-note"></p>
+                  </div>
+                </div>
+              </div>
+            </details>
+
+            <fieldset class="options-row">
+              <legend>Downloads and race handling</legend>
+              <label class="check">
+                <input id="race-mode" name="race-mode" type="checkbox" checked />
+                <span>
+                  <strong>Race mode</strong>
+                  <small>No generated spoiler</small>
+                </span>
+              </label>
+              <label class="check">
+                <input id="include-bps" name="include-bps" type="checkbox" />
+                <span>
+                  <strong>Create BPS patch</strong>
+                  <small>Optional patch download</small>
+                </span>
+              </label>
+            </fieldset>
+
+            <section class="rules-panel" aria-labelledby="rules-title">
+              <div class="rules-heading">
+                <h3 id="rules-title">Rules</h3>
+                <span id="entrance-rule" class="mode-pill"></span>
+              </div>
+              <ul>
+                <li>
+                  <strong>Standard seven crystals</strong>
+                  <span>Rescue Zelda, 7/7 GT and Ganon</span>
+                </li>
+                <li>
+                  <strong>Climbing kit</strong>
+                  <span>Power Glove, Hookshot, Hammer, Moon Pearl</span>
+                </li>
+                <li>
+                  <strong>Eight hearts</strong>
+                  <span>Fixed, no Heart Containers or Heart Pieces</span>
+                </li>
+                <li>
+                  <strong>Six swords</strong>
+                  <span>Six progressive sword pickups in the item pool</span>
+                </li>
+                <li>
+                  <strong>Extra progression</strong>
+                  <span>More copies of progression items</span>
+                </li>
+                <li>
+                  <strong>Active flutes</strong>
+                  <span>Three flutes, activated on pickup</span>
+                </li>
+                <li>
+                  <strong>Removed upgrades</strong>
+                  <span>No Half-Magic, Red Mail, or Silver Arrows</span>
+                </li>
+                <li>
+                  <strong>No self-locks</strong>
+                  <span>Items cannot appear behind their own requirement</span>
+                </li>
+                <li>
+                  <strong>Two Pseudo Boots</strong>
+                  <span>In the item pool, no boots checks required</span>
+                </li>
+                <li>
+                  <strong>Dungeon structure</strong>
+                  <span id="rules-entrance-detail"></span>
+                </li>
+              </ul>
+            </section>
+
+            <div class="form-actions">
+              <p id="status" role="status" data-tone="neutral">
+                Select your ROM to begin.
+              </p>
+              <div>
+                <button id="cancel" type="button" class="secondary" hidden>
+                  Cancel
+                </button>
+                <button id="reset-form" type="button" class="secondary">
+                  Reset
+                </button>
+                <button id="generate" type="submit" disabled>Generate ROM</button>
+              </div>
+            </div>
+          </form>
+
+          <section
+            id="progress-panel"
+            class="progress-panel"
+            aria-label="Generation progress"
+            hidden
+          >
+            <ol id="progress"></ol>
+          </section>
+
+          <section
+            id="success-panel"
+            class="success-panel"
+            aria-labelledby="success-title"
+            hidden
+          >
+            <div class="success-heading">
+              <div class="success-icon" aria-hidden="true">✓</div>
+              <div>
+                <p class="section-kicker">Generation complete</p>
+                <h3 id="success-title">Your seed is ready</h3>
+              </div>
+            </div>
+
+            <dl class="result-grid">
+              <div><dt>Mode</dt><dd id="result-mode"></dd></div>
+              <div><dt>Seed</dt><dd id="result-seed"></dd></div>
+              <div><dd id="result-hash" class="hash-items"></dd></div>
+              <div><dt>Version</dt><dd id="result-settings"></dd></div>
+              <div class="wide">
+                <dt>ROM SHA-256</dt>
+                <dd id="result-sha" class="digest"></dd>
+              </div>
+              <div class="wide share-result">
+                <dt>Share seed</dt>
+                <dd>
+                  <div class="share-link-control">
+                    <input
+                      id="share-seed-link"
+                      type="url"
+                      aria-label="Shareable seed link"
+                      readonly
+                    />
+                    <button
+                      id="copy-seed-link"
+                      type="button"
+                      class="secondary compact"
+                    >
+                      Copy link
+                    </button>
+                  </div>
+                  <small id="share-link-status" aria-live="polite"></small>
+                </dd>
+              </div>
+            </dl>
+
+            <div class="download-actions">
+              <button id="download-spoiler" type="button" class="secondary" hidden>
+                Download spoiler
+              </button>
+              <button id="download-bps" type="button" class="secondary" hidden>
+                Download BPS
+              </button>
+              <button id="download-rom" type="button">Download ROM</button>
+            </div>
+          </section>
+        </section>
+
+        <footer>
+          <svg
+            class="site-panel"
+            viewBox="0 0 1000 200"
+            preserveAspectRatio="none"
+            aria-hidden="true"
+          >
+            <g filter="url(#panel-inner-shadow)">
+              <polygon
+                points="0,0 1000,0 1000,154 710,200 0,154"
+                fill="hsl(240 30% 8%)"
+                fill-opacity="0.28"
+              />
+              <polygon
+                points="0,0 1000,0 1000,154 710,200 0,154"
+                fill="url(#panel-tint)"
+              />
+            </g>
+          </svg>
+          <p><a href="https://github.com/eclectic-sh">by eclectic</a></p>
+          <p>
+            Based on the original
+            <a href="https://github.com/fabioyk/LttP-Adjuster">LttP Adjuster</a>
+            and
+            <a href="https://github.com/aerinon/ALttPDoorRandomizer">
+              ALttP Door Randomizer
+            </a>
+          </p>
+          <p>
+            Thanks to <a href="https://www.twitch.tv/emock81">emock81</a>,
+            <a href="https://www.twitch.tv/scanlor">Scanlor</a>, and
+            <a href="https://www.twitch.tv/zephyrros">Zephyros</a> for helping
+            with testing!
+          </p>
+          <p>
+            <a href="./LICENSE.txt">License</a> ·
+            <a href="./THIRD_PARTY_NOTICES.md">Third-party notices</a>
+          </p>
+        </footer>
+      </div>
+    </main>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

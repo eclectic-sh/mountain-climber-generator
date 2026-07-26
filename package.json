@@ -1,0 +1,32 @@
+{
+  "name": "mountain-climber-generator",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": "24.x",
+    "npm": "10.x"
+  },
+  "packageManager": "npm@10.9.8",
+  "scripts": {
+    "assets": "node scripts/prepare-browser-assets.mjs && node scripts/package-python.mjs",
+    "sync:sprites": "node scripts/sync-player-sprites.mjs",
+    "build": "npm run assets && tsc -b && vite build",
+    "check": "python -m ruff format --check python/mountain_climber tests && python -m ruff check python/mountain_climber tests",
+    "ci": "npm run check && npm test && npm run build",
+    "dev": "npm run assets && vite",
+    "preview": "vite preview",
+    "test": "npm run test:types && npm run test:rom && npm run test:python",
+    "test:rom": "node --import tsx --test tests/rom/*.test.ts",
+    "test:types": "tsc -b",
+    "test:python": "PYTHONHASHSEED=0 PYTHONPATH=python python -m unittest discover -s tests -v"
+  },
+  "devDependencies": {
+    "@types/node": "24.10.1",
+    "fflate": "0.8.2",
+    "pyodide": "314.0.2",
+    "tsx": "4.23.1",
+    "typescript": "6.0.3",
+    "vite": "8.1.5"
+  }
+}

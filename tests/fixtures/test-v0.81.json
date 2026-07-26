@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "settingsVersion": "mountain-climber-v0.81",
+  "generatorRevision": "b55727f0bf56d13493aacc16a55a4c9bcd3c2cde",
+  "referencePythonVersion": "3.14.6",
+  "selectedSpoilerAssertions": {
+    "beatable": true,
+    "crystalCount": 7,
+    "doorShuffle": "vanilla",
+    "filledLocationCount": 308,
+    "itemPoolCount": 153,
+    "maximumHearts": 8,
+    "progressiveGloveCount": 2,
+    "progressiveSwordCount": 6,
+    "pseudoBootsCount": 2,
+    "startingHearts": 8
+  },
+  "fixtures": [
+    {
+      "mode": "mountain-climber",
+      "seed": 42,
+      "hash": ["Mushroom", "Rod", "Boomerang", "Potion", "Ocarina"],
+      "patchDigest": "f43a72409e061642b6d906f3f3073a14968a58d135f217a17642dd1f40b11f10",
+      "playthroughSpheres": 10,
+      "entranceShuffle": "vanilla"
+    },
+    {
+      "mode": "mountain-climber-ex",
+      "seed": 42,
+      "hash": ["Pendant", "Tunic", "Hookshot", "Pendant", "Bug Net"],
+      "patchDigest": "f5e39bf5a196ac06743587740d9a7591fce3fdac03edeaa4d32ab8230f624d66",
+      "playthroughSpheres": 12,
+      "entranceShuffle": "dungeonssimple"
+    }
+  ]
+}

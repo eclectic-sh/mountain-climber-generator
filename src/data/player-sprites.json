@@ -1,0 +1,4814 @@
+{
+  "source": "https://alttpr.com/sprites",
+  "assetHost": "https://alttpr-assets.s3.us-east-2.amazonaws.com",
+  "sprites": [
+    {
+      "name": "Abigail",
+      "author": "Fish_waffle64",
+      "file": "abigail.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/abigail.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Adol",
+      "author": "Yuushia",
+      "file": "adol.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/adol.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Adventure 2600",
+      "author": "Purple Peak",
+      "file": "adventure-2600.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/adventure-2600.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Aggretsuko",
+      "author": "skovacs1",
+      "file": "aggretsuko.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/aggretsuko.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Agrias",
+      "author": "Tux",
+      "file": "agrias.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/agrias.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Alcoon",
+      "author": "Wuffie",
+      "file": "alcoon.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/alcoon.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Alex",
+      "author": "Fish_waffle64",
+      "file": "alex.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/alex.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Alice",
+      "author": "Artheau",
+      "file": "alice.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/alice.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Angel",
+      "author": "NO_Body_The_Dragon",
+      "file": "angel.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/angel.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Angry Video Game Nerd",
+      "author": "ABOhiccups",
+      "file": "angry-video-game-nerd.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/angry-video-game-nerd.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "AnnaLavellan",
+      "author": "AnnaLavellan",
+      "file": "anna-lavellan.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/anna-lavellan.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Arcane",
+      "author": "MM102",
+      "file": "arcane.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/arcane.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Archen",
+      "author": "Vonyee",
+      "file": "archen.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/archen.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "ArcticArtemisFox",
+      "author": "Chew Terr",
+      "file": "arctic-artemis.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/arctic-artemis.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "ArcturusChusky",
+      "author": "Drieky",
+      "file": "arcturus-chusky.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/arcturus-chusky.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Aria",
+      "author": "Maya Neko Comics",
+      "file": "aria.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/aria.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Ark (No Cape)",
+      "author": "Dorana",
+      "file": "ark-dorana.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/ark-dorana.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Ark (Cape)",
+      "author": "wzl",
+      "file": "ark.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/ark.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Arrghus",
+      "author": "kan",
+      "file": "arrghus.3.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/arrghus.3.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Astor",
+      "author": "Herowho",
+      "file": "astor.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/astor.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Astronaut",
+      "author": "Malmo",
+      "file": "astronaut.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/astronaut.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Asuna",
+      "author": "Natsuru Kiyohoshi",
+      "file": "asuna.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/asuna.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Axolotl",
+      "author": "The_Nalox & Chika9516",
+      "file": "axolotl.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/axolotl.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Baba",
+      "author": "malmo",
+      "file": "baba.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/baba.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Baby Fro",
+      "author": "MochaJones10",
+      "file": "baby-fro-mocha.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/baby-fro-mocha.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Badeline",
+      "author": "Jam",
+      "file": "badeline.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/badeline.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Bananas In Pyjamas",
+      "author": "codemann8",
+      "file": "bananas-in-pyjamas.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/bananas-in-pyjamas.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Bandit",
+      "author": "Fenrika",
+      "file": "bandit.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/bandit.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Batman",
+      "author": "Ninjakauz",
+      "file": "batman.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/batman.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Bavarian Link",
+      "author": "The_Nalox",
+      "file": "bavarian-link.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/bavarian-link.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Beau",
+      "author": "Achy",
+      "file": "beau.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/beau.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Bee",
+      "author": "TarThoron",
+      "file": "bee.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/bee.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Bewp",
+      "author": "Valechec",
+      "file": "bewp.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/bewp.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Big Key",
+      "author": "kan",
+      "file": "bigkey.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/bigkey.2.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Birb of Paradise",
+      "author": "Dr. Deadrewski",
+      "file": "birb-of-paradise.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/birb-of-paradise.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Birb",
+      "author": "Dr. Deadrewski",
+      "file": "birb.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/birb.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Birdfruit",
+      "author": "karafruit",
+      "file": "birdfruit.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/birdfruit.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Birdo",
+      "author": "BlackTycoon",
+      "file": "birdo.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/birdo.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Black Mage",
+      "author": "TheRedMage",
+      "file": "blackmage.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/blackmage.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Blacksmith Link",
+      "author": "Glan",
+      "file": "blacksmithlink.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/blacksmithlink.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Blazer",
+      "author": "Herowho",
+      "file": "blazer.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/blazer.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Blossom",
+      "author": "Artheau",
+      "file": "blossom.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/blossom.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Blue",
+      "author": "WiipartyU",
+      "file": "blue.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/blue.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Bob",
+      "author": "kan",
+      "file": "bob.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/bob.2.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Bob Ross",
+      "author": "CaptainApathy",
+      "file": "bobross.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/bobross.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Boco the Chocobo",
+      "author": "TarThoron",
+      "file": "boco.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/boco.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Bomberman",
+      "author": "H.E.L.P.e.R.Mod2",
+      "file": "bomberman.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/bomberman.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Boo 2",
+      "author": "Achy",
+      "file": "boo-two.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/boo-two.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Boo",
+      "author": "Zarby89",
+      "file": "boo.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/boo.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Bottle o' Goo",
+      "author": "Fish_waffle64",
+      "file": "bottle_o_goo.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/bottle_o_goo.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "BotW Link",
+      "author": "Pasta La Vista",
+      "file": "botw-link.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/botw-link.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "BotW Zelda",
+      "author": "Roo",
+      "file": "botw-zelda.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/botw-zelda.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Bowser",
+      "author": "Artheau",
+      "file": "bowser.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/bowser.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Bowsette",
+      "author": "Sarah Shinespark",
+      "file": "bowsette.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/bowsette.2.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Bowsette (Red)",
+      "author": "Sarah Shinespark",
+      "file": "bowsette_red.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/bowsette_red.2.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Branch",
+      "author": "cbass601",
+      "file": "branch.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/branch.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Brian",
+      "author": "Herowho",
+      "file": "brian.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/brian.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Broccoli",
+      "author": "kan",
+      "file": "broccoli.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/broccoli.2.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Bronzor",
+      "author": "kan",
+      "file": "bronzor.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/bronzor.2.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "B.S. Boy",
+      "author": "InTheBeef",
+      "file": "bsboy.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/bsboy.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "B.S. Girl",
+      "author": "InTheBeef",
+      "file": "bsgirl.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/bsgirl.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Bubblen",
+      "author": "NO Body the Dragon",
+      "file": "bubblen.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/bubblen.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Bubbles",
+      "author": "Artheau",
+      "file": "bubbles.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/bubbles.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Bullet Bill",
+      "author": "Artheau",
+      "file": "bullet_bill.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/bullet_bill.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Buttercup",
+      "author": "Artheau",
+      "file": "buttercup.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/buttercup.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Cactuar",
+      "author": "RyuTech",
+      "file": "cactuar.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/cactuar.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Cadence",
+      "author": "Fish_waffle64",
+      "file": "cadence.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/cadence.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Captain Novolin",
+      "author": "Fragger",
+      "file": "captain-novolin.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/captain-novolin.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "CarlSagan42",
+      "author": "FedoraFriday",
+      "file": "carlsagan42.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/carlsagan42.1.zspr",
+      "usage": [
+        "commercial"
+      ]
+    },
+    {
+      "name": "Casual Zelda",
+      "author": "Fish_waffle64",
+      "file": "casual-zelda.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/casual-zelda.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Marvin the Cat",
+      "author": "Fish_waffle64",
+      "file": "cat.3.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/cat.3.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Cat Boo",
+      "author": "JaySee87",
+      "file": "catboo.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/catboo.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Catgirl (Hidari)",
+      "author": "Hidari",
+      "file": "catgirl-hidari.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/catgirl-hidari.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "CD-i Link",
+      "author": "SnipSlum",
+      "file": "cdilink.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/cdilink.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Celes",
+      "author": "Deagans",
+      "file": "celes.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/celes.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Centaur Enos",
+      "author": "Ziusudra",
+      "file": "centaur-enos.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/centaur-enos.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Charizard",
+      "author": "Charmander106",
+      "file": "charizard.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/charizard.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Cheep Cheep",
+      "author": "Faw",
+      "file": "cheepcheep.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/cheepcheep.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Chef Pepper",
+      "author": "MiraPoix",
+      "file": "chef-pepper.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/chef-pepper.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Chibity",
+      "author": "Ecyro",
+      "file": "chibity.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/chibity.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Chrizzz",
+      "author": "Chrizzz",
+      "file": "chrizzz.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/chrizzz.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Cinna",
+      "author": "norskmatty",
+      "file": "cinna.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/cinna.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Cirno",
+      "author": "Achy",
+      "file": "cirno.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/cirno.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Clifford",
+      "author": "PlaguedOne",
+      "file": "clifford.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/clifford.2.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Clippy",
+      "author": "PlaguedOne",
+      "file": "clippy.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/clippy.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Cloud",
+      "author": "FedoraFriday",
+      "file": "cloud.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/cloud.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Clyde",
+      "author": "Artheau",
+      "file": "clyde.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/clyde.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Conker Neo",
+      "author": "Erock Kerberos Chew",
+      "file": "conker-neo.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/conker-neo.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Conker",
+      "author": "Charmander106/SePH",
+      "file": "conker.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/conker.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Cool 90s Bun",
+      "author": "Gwenegade",
+      "file": "cool-90s-bun.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/cool-90s-bun.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Cool 90s Link",
+      "author": "Gwenegade",
+      "file": "cool-90s-link.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/cool-90s-link.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Cornelius",
+      "author": "Lori",
+      "file": "cornelius.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/cornelius.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Corona",
+      "author": "Herowho",
+      "file": "corona.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/corona.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Cousin Knol",
+      "author": "Tryford",
+      "file": "cousin-knol.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/cousin-knol.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Crewmate",
+      "author": "Fish_waffle64",
+      "file": "crewmate.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/crewmate.2.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Crono",
+      "author": "Dr. Deadrewski",
+      "file": "crono.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/crono.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Cucco",
+      "author": "Minnie Trethewey",
+      "file": "cucco.3.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/cucco.3.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Cursor",
+      "author": "PlaguedOne",
+      "file": "cursor.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/cursor.2.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "D.Owls",
+      "author": "D.Owls",
+      "file": "d_owls.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/d_owls.2.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Dark Link (Zelda 2)",
+      "author": "Wild Fang",
+      "file": "dark-link-z2.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/dark-link-z2.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Dark Matter",
+      "author": "Lougaroc",
+      "file": "dark-matter.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/dark-matter.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Dark Panda",
+      "author": "MM102",
+      "file": "dark-panda.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/dark-panda.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Dark Boy",
+      "author": "iBazly",
+      "file": "darkboy.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/darkboy.1.zspr",
+      "usage": [
+        "commercial"
+      ]
+    },
+    {
+      "name": "Dark Girl",
+      "author": "iBazly",
+      "file": "darkgirl.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/darkgirl.1.zspr",
+      "usage": [
+        "commercial"
+      ]
+    },
+    {
+      "name": "Dark Link (Tunic)",
+      "author": "Damon",
+      "file": "darklink-tunic.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/darklink-tunic.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Dark Link",
+      "author": "iBazly",
+      "file": "darklink.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/darklink.1.zspr",
+      "usage": [
+        "commercial"
+      ]
+    },
+    {
+      "name": "Dark Swatchy",
+      "author": "Minnie Trethewey",
+      "file": "darkswatchy.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/darkswatchy.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Dark Zelda",
+      "author": "iBazly",
+      "file": "darkzelda.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/darkzelda.1.zspr",
+      "usage": [
+        "commercial"
+      ]
+    },
+    {
+      "name": "Dark Zora",
+      "author": "iBazly",
+      "file": "darkzora.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/darkzora.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Deadpool (Mythic)",
+      "author": "Mythic",
+      "file": "deadpool-mythic.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/deadpool-mythic.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Deadpool (SirCzah)",
+      "author": "SirCzah",
+      "file": "deadpool.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/deadpool.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Deadrock",
+      "author": "Glan",
+      "file": "deadrock.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/deadrock.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Decidueye",
+      "author": "Achy",
+      "file": "decidueye.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/decidueye.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Dekar",
+      "author": "The3X",
+      "file": "dekar.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/dekar.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Dennsen86",
+      "author": "Bonzaibier",
+      "file": "dennsen86.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/dennsen86.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Diddy Kong",
+      "author": "copybookpizza10",
+      "file": "diddy-kong.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/diddy-kong.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Dig Dug",
+      "author": "kan",
+      "file": "digdug.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/digdug.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Dipper",
+      "author": "Sharpefern",
+      "file": "dipper.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/dipper.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Discord",
+      "author": "JerryEris",
+      "file": "discord-mlp.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/discord-mlp.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Dot_lvl",
+      "author": "happytoaster",
+      "file": "dot_lvl.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/dot_lvl.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Dragonair",
+      "author": "Drieky",
+      "file": "dragonair.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/dragonair.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Dragonite",
+      "author": "Fish_waffle64",
+      "file": "dragonite.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/dragonite.2.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Drak",
+      "author": "chpringles",
+      "file": "drak.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/drak.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Drake The Dragon",
+      "author": "NO Body The Dragon",
+      "file": "drake.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/drake.2.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Drawcia",
+      "author": "Plouni",
+      "file": "drawcia.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/drawcia.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Eevee",
+      "author": "Drieky",
+      "file": "eevee.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/eevee.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Eggplant",
+      "author": "PlaguedOne",
+      "file": "eggplant.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/eggplant.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Eirika",
+      "author": "Lougaroc",
+      "file": "eirika.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/eirika.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Elfilin",
+      "author": "Plouni",
+      "file": "elfilin.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/elfilin.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Ema Skye",
+      "author": "Linlinlin",
+      "file": "ema-skye.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/ema-skye.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "EmoSaru",
+      "author": "Achy",
+      "file": "emosaru.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/emosaru.1.zspr",
+      "usage": []
+    },
+    {
+      "name": "Espeon",
+      "author": "Drieky",
+      "file": "espeon.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/espeon.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Ezlo",
+      "author": "cbass601",
+      "file": "ezlo.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/ezlo.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Fi",
+      "author": "Lougaroc",
+      "file": "fi.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/fi.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Fierce Deity Link",
+      "author": "Jeffreygriggs2",
+      "file": "fierce-deity-link.3.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/fierce-deity-link.3.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Finn Merten",
+      "author": "Devan2002",
+      "file": "finn.3.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/finn.3.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Finny Bear",
+      "author": "skovacs1",
+      "file": "finny_bear.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/finny_bear.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Floodgate Fish",
+      "author": "Delphi1024",
+      "file": "fish_floodgate.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/fish_floodgate.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Flareon",
+      "author": "Drieky",
+      "file": "flareon.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/flareon.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Flavor Guy",
+      "author": "PlaguedOne",
+      "file": "flavor_guy.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/flavor_guy.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Four Swords Link",
+      "author": "Minnie Trethewey",
+      "file": "fourswordslink.3.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/fourswordslink.3.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Fox Link",
+      "author": "InTheBeef",
+      "file": "foxlink.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/foxlink.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Fransen",
+      "author": "Distelschweif",
+      "file": "fransen.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/fransen.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Freya Crescent",
+      "author": "Demoncraze",
+      "file": "freya.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/freya.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Frisk",
+      "author": "TobyFox/MisterKerr",
+      "file": "frisk.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/frisk.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Frog Link",
+      "author": "Minnie Trethewey",
+      "file": "froglink.4.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/froglink.4.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Fujin",
+      "author": "FujinAkari",
+      "file": "fujin.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/fujin.2.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Future Trunks",
+      "author": "Merciter",
+      "file": "future_trunks.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/future_trunks.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Gamer",
+      "author": "InTheBeef",
+      "file": "gamer.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/gamer.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "GaMetal",
+      "author": "TheRedMage and Mirby",
+      "file": "gametal.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/gametal.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Mini Ganon",
+      "author": "atth3h3art0fwinter",
+      "file": "ganon.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/ganon.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Ganondorf",
+      "author": "Fish_waffle64",
+      "file": "ganondorf.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/ganondorf.2.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Garfield",
+      "author": "Fwiller",
+      "file": "garfield.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/garfield.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Garnet",
+      "author": "Artheau",
+      "file": "garnet.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/garnet.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Garo Master",
+      "author": "Herowho",
+      "file": "garomaster.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/garomaster.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "GBC Link",
+      "author": "skovacs1",
+      "file": "gbc-link.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/gbc-link.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Geno",
+      "author": "FedoraFriday",
+      "file": "geno.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/geno.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Gina Lestrade",
+      "author": "PikminWarrior",
+      "file": "gina_lestrade.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/gina_lestrade.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "GliitchWiitch",
+      "author": "Ivy-IV",
+      "file": "gliitchwiitch.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/gliitchwiitch.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Glove Color Link",
+      "author": "Wild Fang",
+      "file": "glove-color-link.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/glove-color-link.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Go Mode",
+      "author": "Zero Meaning",
+      "file": "go-mode.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/go-mode.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Gobli",
+      "author": "Lantis",
+      "file": "gobli.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/gobli.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Goemon",
+      "author": "norskmatty",
+      "file": "goemon.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/goemon.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Gooey",
+      "author": "Lougaroc",
+      "file": "gooey.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/gooey.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Goomba",
+      "author": "SirCzah",
+      "file": "goomba.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/goomba.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Goose",
+      "author": "Jam",
+      "file": "goose.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/goose.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Graalian Noob",
+      "author": "EGamer2",
+      "file": "graalian-noob.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/graalian-noob.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "GrandPOOBear",
+      "author": "proximitysound",
+      "file": "grandpoobear.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/grandpoobear.2.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Gretis",
+      "author": "SnakeGrunger",
+      "file": "gretis.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/gretis.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Growlithe",
+      "author": "Drieky",
+      "file": "growlithe.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/growlithe.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Gruncle Stan",
+      "author": "SirCzah",
+      "file": "grunclestan.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/grunclestan.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Guandar",
+      "author": "MoeChicken",
+      "file": "guandar.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/guandar.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Guiz",
+      "author": "GuizDP",
+      "file": "guiz.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/guiz.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Hainz the Blahaj",
+      "author": "Nekoni_Hoozuki",
+      "file": "hainz_the_blahaj.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/hainz_the_blahaj.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Hamtaro",
+      "author": "NO Body the Dragon",
+      "file": "hamtaro.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/hamtaro.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Hanna",
+      "author": "Maya-Neko",
+      "file": "hanna.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/hanna.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Hardhat Beetle",
+      "author": "Artheau",
+      "file": "hardhat_beetle.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/hardhat_beetle.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Hat Kid",
+      "author": "skovacs1",
+      "file": "hat-kid.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/hat-kid.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Head Link",
+      "author": "TarThoron",
+      "file": "head-link.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/head-link.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Headless Link",
+      "author": "kan",
+      "file": "headlesslink.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/headlesslink.2.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Heem",
+      "author": "Xonmean",
+      "file": "heem.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/heem.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Hello Kitty",
+      "author": "qeeen",
+      "file": "hello_kitty.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/hello_kitty.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Hero of Awakening",
+      "author": "Vonyee",
+      "file": "hero-of-awakening.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/hero-of-awakening.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Hero of Hyrule",
+      "author": "Vonyee",
+      "file": "hero-of-hyrule.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/hero-of-hyrule.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Hint Tile",
+      "author": "PlaguedOne",
+      "file": "hint_tile.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/hint_tile.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Hoarder (Bush)",
+      "author": "Restomak",
+      "file": "hoarder-bush.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/hoarder-bush.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Hoarder (Pot)",
+      "author": "Restomak",
+      "file": "hoarder-pot.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/hoarder-pot.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Hoarder (Rock)",
+      "author": "Restomak",
+      "file": "hoarder-rock.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/hoarder-rock.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Hollow Knight (Malmo/Winter)",
+      "author": "Malmo and Atth3h3art0fwinter",
+      "file": "hollow-knight-winter.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/hollow-knight-winter.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Hollow Knight",
+      "author": "Chew_Terr",
+      "file": "hollow-knight.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/hollow-knight.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Homer Simpson",
+      "author": "Fwiller",
+      "file": "homer.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/homer.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Hornet",
+      "author": "Spiffy",
+      "file": "hornet.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/hornet.2.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Horseman",
+      "author": "FedoraFriday",
+      "file": "horse.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/horse.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Hotdog",
+      "author": "Xag & Tylo",
+      "file": "hotdog.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/hotdog.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Hyrule Knight",
+      "author": "InTheBeef",
+      "file": "hyruleknight.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/hyruleknight.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "iBazly",
+      "author": "Achy",
+      "file": "ibazly.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/ibazly.1.zspr",
+      "usage": [
+        "commercial"
+      ]
+    },
+    {
+      "name": "Ignignokt",
+      "author": "kan",
+      "file": "ignignokt.3.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/ignignokt.3.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Imani",
+      "author": "Bean",
+      "file": "imani.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/imani.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Informant Woman",
+      "author": "Herowho",
+      "file": "informant_woman.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/informant_woman.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Inkling",
+      "author": "RyuTech",
+      "file": "inkling.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/inkling.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Invisible Link",
+      "author": "Minnie Trethewey",
+      "file": "invisibleman.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/invisibleman.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Isabelle",
+      "author": "pholyn",
+      "file": "isabelle.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/isabelle.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Jack Frost",
+      "author": "xypotion",
+      "file": "jack-frost.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/jack-frost.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Jason Frudnick",
+      "author": "Artheau",
+      "file": "jason_frudnick.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/jason_frudnick.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Jasp",
+      "author": "Chonixtu",
+      "file": "jasp.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/jasp.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Jogurt",
+      "author": "Nakuri",
+      "file": "jogurt.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/jogurt.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Jolteon",
+      "author": "Drieky",
+      "file": "jolteon.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/jolteon.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "JoshTriangles",
+      "author": "RaylaRabbit",
+      "file": "josh-triangles.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/josh-triangles.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Juste Belmont",
+      "author": "Nolouls",
+      "file": "juste-belmont.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/juste-belmont.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Juzcook",
+      "author": "FedoraFriday",
+      "file": "juz.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/juz.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Kaguya",
+      "author": "Linlinlin",
+      "file": "kaguya.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/kaguya.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Kain",
+      "author": "Chew Terr",
+      "file": "kain.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/kain.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Kakyoin",
+      "author": "blanketc (pearl)",
+      "file": "kakyoin.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/kakyoin.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Katsura",
+      "author": "atth3h3art0fwinter",
+      "file": "katsura.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/katsura.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Kecleon",
+      "author": "Gylergin",
+      "file": "kecleon.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/kecleon.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Kefka",
+      "author": "Chew Terr",
+      "file": "kefka.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/kefka.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Kenny McCormick",
+      "author": "Artheau",
+      "file": "kenny_mccormick.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/kenny_mccormick.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Ketchup",
+      "author": "t0uchan",
+      "file": "ketchup.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/ketchup.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Kholdstare",
+      "author": "kan",
+      "file": "kholdstare.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/kholdstare.2.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "King Gothalion",
+      "author": "kickpixel",
+      "file": "king_gothalion.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/king_gothalion.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "King Graham",
+      "author": "MisterKerr",
+      "file": "king_graham.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/king_graham.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Kinu",
+      "author": "UberNooga",
+      "file": "kinu.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/kinu.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Kira",
+      "author": "Maya Neko Comics",
+      "file": "kira.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/kira.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Kirby (Dreamland 3)",
+      "author": "Plouni",
+      "file": "kirby-d3.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/kirby-d3.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Kirby",
+      "author": "KHRoxas",
+      "file": "kirby-meta.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/kirby-meta.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Kite",
+      "author": "scoutjd",
+      "file": "kite.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/kite.2.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Koda",
+      "author": "Koda",
+      "file": "koda.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/koda.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Koopa",
+      "author": "Tryford",
+      "file": "koopa.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/koopa.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Koragi",
+      "author": "Antroyst",
+      "file": "koragi.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/koragi.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Kore8",
+      "author": "Skewer",
+      "file": "kore8.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/kore8.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Korok",
+      "author": "atth3h3art0fwinter",
+      "file": "korok.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/korok.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Kris",
+      "author": "nani6400",
+      "file": "kris.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/kris.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Krissy",
+      "author": "_aitchFactor",
+      "file": "krissy.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/krissy.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Kriv",
+      "author": "UltChimi",
+      "file": "kriv.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/kriv.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Kromb",
+      "author": "Nekoni_Hoozuki",
+      "file": "kromb.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/kromb.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Lakitu",
+      "author": "SirCzah",
+      "file": "lakitu.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/lakitu.1.zspr",
+      "usage": []
+    },
+    {
+      "name": "Lanux",
+      "author": "Nekoni_Hoozuki",
+      "file": "lanux.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/lanux.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Lapras",
+      "author": "Fish_waffle64",
+      "file": "lapras.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/lapras.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Latias",
+      "author": "WiipartyU",
+      "file": "latias.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/latias.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Latios",
+      "author": "WiipartyU",
+      "file": "latios.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/latios.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Leafeon",
+      "author": "Drieky",
+      "file": "leafeon.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/leafeon.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "League Mascot",
+      "author": "ptrain24",
+      "file": "league-mascot.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/league-mascot.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Leongar",
+      "author": "Lougaroc",
+      "file": "leongar.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/leongar.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Lest",
+      "author": "PrideToRuleEarth",
+      "file": "lest.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/lest.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Lestat",
+      "author": "Ziusudra",
+      "file": "lestat.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/lestat.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Lily",
+      "author": "ScatlinkSean",
+      "file": "lily.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/lily.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Linja",
+      "author": "Razhagal",
+      "file": "linja.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/linja.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Link Redrawn",
+      "author": "Spiffy",
+      "file": "link-redrawn.4.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/link-redrawn.4.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Link (Zelda 1)",
+      "author": "Starry Melody",
+      "file": "link-z1.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/link-z1.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Hat Color Link",
+      "author": "Damon",
+      "file": "linkhatcolor.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/linkhatcolor.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Tunic Color Link",
+      "author": "Damon",
+      "file": "linktuniccolor.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/linktuniccolor.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Little Hylian",
+      "author": "MM102",
+      "file": "little-hylian.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/little-hylian.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Pony",
+      "author": "Botchos",
+      "file": "littlepony.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/littlepony.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Locke",
+      "author": "Rose",
+      "file": "locke.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/locke.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Figaro Merchant",
+      "author": "Artheau",
+      "file": "locke_merchant.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/locke_merchant.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Lord Hoell",
+      "author": "Ochahime",
+      "file": "lord-hoell.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/lord-hoell.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Lucario",
+      "author": "Achy",
+      "file": "lucario.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/lucario.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Lucas",
+      "author": "Plouni",
+      "file": "lucas.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/lucas.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "LuckwurstJoe",
+      "author": "LuckwurstJoe/Nekoni_Hoozuki",
+      "file": "luckwurst-joe.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/luckwurst-joe.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Luffy",
+      "author": "BOtheMighty",
+      "file": "luffy.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/luffy.2.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Lugia",
+      "author": "Charmander106",
+      "file": "lugia.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/lugia.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Luigi",
+      "author": "Achy",
+      "file": "luigi.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/luigi.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Lumberjack",
+      "author": "norskmatty",
+      "file": "lumberjack.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/lumberjack.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Luna Maindo",
+      "author": "IkkyLights",
+      "file": "luna-maindo.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/luna-maindo.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Lycanroc",
+      "author": "Lougaroc",
+      "file": "lycanroc.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/lycanroc.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Lynea",
+      "author": "Artimus83/Nekoni_Hoozuki",
+      "file": "lynea.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/lynea.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Lynel (BotW)",
+      "author": "Lougaroc",
+      "file": "lynel-botw.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/lynel-botw.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Mad_Tears",
+      "author": "littlefatpanda",
+      "file": "mad_tears.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/mad_tears.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Madeline",
+      "author": "Jam",
+      "file": "madeline.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/madeline.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Magus",
+      "author": "PlaguedOne",
+      "file": "magus.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/magus.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Maiden",
+      "author": "Plan",
+      "file": "maiden.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/maiden.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Majora's Mask",
+      "author": "Dawn",
+      "file": "majora.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/majora.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Mallow (Cat)",
+      "author": "FedoraFriday",
+      "file": "mallow-cat.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/mallow-cat.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Manga Link",
+      "author": "kan",
+      "file": "mangalink.3.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/mangalink.3.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Maple Queen",
+      "author": "Zarby89",
+      "file": "maplequeen.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/maplequeen.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Marin",
+      "author": "Nocturnesthesia",
+      "file": "marin.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/marin.2.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Mario (Classic)",
+      "author": "Damon",
+      "file": "mario-classic.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/mario-classic.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Tanooki Mario",
+      "author": "Nocturnesthesia",
+      "file": "mario_tanooki.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/mario_tanooki.2.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Mario and Cappy",
+      "author": "Damon",
+      "file": "mariocappy.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/mariocappy.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Marisa Kirisame",
+      "author": "Achy",
+      "file": "marisa.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/marisa.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Matthias",
+      "author": "Marcus Bolduc",
+      "file": "matthias.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/matthias.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Meatwad",
+      "author": "kan",
+      "file": "meatwad.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/meatwad.2.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Medallions",
+      "author": "Minnie Trethewey",
+      "file": "medallions.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/medallions.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Medli",
+      "author": "Kzinssie",
+      "file": "medli.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/medli.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Megaman X",
+      "author": "PlaguedOne",
+      "file": "megaman-x.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/megaman-x.2.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Megaman X2",
+      "author": "PlaguedOne",
+      "file": "megaman-x2.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/megaman-x2.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Mega Man (Classic)",
+      "author": "CrebleStar",
+      "file": "megaman.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/megaman.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Meta Knight",
+      "author": "Plouni",
+      "file": "metaknight.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/metaknight.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Meteion",
+      "author": "MintToBe",
+      "file": "meteion.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/meteion.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Baby Metroid",
+      "author": "Jam",
+      "file": "metroid.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/metroid.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "MewLp",
+      "author": "MewLp",
+      "file": "mew.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/mew.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Mike Jones",
+      "author": "Fish_waffle64",
+      "file": "mike-jones.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/mike-jones.2.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Milly",
+      "author": "Acmlm",
+      "file": "milly.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/milly.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Mimic",
+      "author": "Chew Terr",
+      "file": "mimic.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/mimic.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Mimikyu",
+      "author": "Plouni",
+      "file": "mimikyu.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/mimikyu.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Minish Link",
+      "author": "Artheau",
+      "file": "minish_link.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/minish_link.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Minish Cap Link",
+      "author": "InTheBeef",
+      "file": "minishcaplink.3.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/minishcaplink.3.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Mipha",
+      "author": "RippedSnorlax",
+      "file": "mipha.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/mipha.2.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "missingno",
+      "author": "AAhbxsujd",
+      "file": "missingno.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/missingno.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Moblin",
+      "author": "Noctai_",
+      "file": "moblin.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/moblin.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Modern Link",
+      "author": "RyuTech",
+      "file": "modernlink.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/modernlink.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "MoeChicken",
+      "author": "MoeChicken",
+      "file": "moechicken.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/moechicken.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Momiji Inubashiri",
+      "author": "Ardaceus",
+      "file": "momiji.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/momiji.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Moosh",
+      "author": "PlaguedOne",
+      "file": "moosh.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/moosh.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Mouse",
+      "author": "Malthaez",
+      "file": "mouse.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/mouse.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Ms. Paint Dog",
+      "author": "TehRealSalt",
+      "file": "ms-paintdog.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/ms-paintdog.2.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Power Up with Pride Mushroom",
+      "author": "Achy",
+      "file": "mushy.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/mushy.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Nature Link",
+      "author": "iBazly",
+      "file": "naturelink.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/naturelink.1.zspr",
+      "usage": [
+        "commercial"
+      ]
+    },
+    {
+      "name": "Navi",
+      "author": "qwertymodo",
+      "file": "navi.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/navi.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Navirou",
+      "author": "Lori",
+      "file": "navirou.3.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/navirou.3.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Nayada",
+      "author": "Plouni",
+      "file": "nayada.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/nayada.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Necrosky90",
+      "author": "Necrosky90",
+      "file": "necrosky90.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/necrosky90.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Ned Flanders",
+      "author": "JJ0033LL",
+      "file": "ned-flanders.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/ned-flanders.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Negative Link",
+      "author": "iBazly",
+      "file": "negativelink.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/negativelink.1.zspr",
+      "usage": [
+        "commercial"
+      ]
+    },
+    {
+      "name": "Nekoni Hoozuki",
+      "author": "Nekoni_Hoozuki",
+      "file": "nekoni_hoozuki.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/nekoni_hoozuki.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Neosad",
+      "author": "Dr. Deadrewski",
+      "file": "neosad.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/neosad.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Nepgear",
+      "author": "HoxNorf",
+      "file": "nepgear.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/nepgear.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Neptune",
+      "author": "HoxNorf",
+      "file": "neptune.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/neptune.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "NES Link",
+      "author": "Minnie Trethewey/kan",
+      "file": "neslink.3.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/neslink.3.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Ness",
+      "author": "Lantis",
+      "file": "ness.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/ness.2.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Nia",
+      "author": "Mojonbo",
+      "file": "nia.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/nia.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Niddraig",
+      "author": "Jakebob",
+      "file": "niddraig.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/niddraig.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Niko",
+      "author": "ScatlinkSean",
+      "file": "niko.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/niko.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Ninten",
+      "author": "Plouni",
+      "file": "ninten.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/ninten.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Octorok",
+      "author": "Fire-Luigi",
+      "file": "octorok.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/octorok.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Olde Man",
+      "author": "Justin",
+      "file": "olde-man.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/olde-man.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Old Man",
+      "author": "Zarby89",
+      "file": "oldman.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/oldman.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Ori",
+      "author": "Phant",
+      "file": "ori.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/ori.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Outline Link",
+      "author": "VT",
+      "file": "outlinelink.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/outlinelink.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Paper Mario",
+      "author": "Fire-Luigi",
+      "file": "paper-mario.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/paper-mario.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Parallel Worlds Link",
+      "author": "SePH/InTheBeef",
+      "file": "parallelworldslink.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/parallelworldslink.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Patia",
+      "author": "AaronDobbe",
+      "file": "patia.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/patia.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Paul the Woodsman",
+      "author": "Tryford",
+      "file": "paul-s-woodman.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/paul-s-woodman.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Paula",
+      "author": "Fish_waffle64",
+      "file": "paula.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/paula.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Princess Peach",
+      "author": "RoPan",
+      "file": "peach.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/peach.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Penguin Link",
+      "author": "Fish_waffle64",
+      "file": "penguinlink.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/penguinlink.2.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Pete",
+      "author": "Lantis",
+      "file": "pete.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/pete.2.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Phoenix Wright",
+      "author": "SnipSlum",
+      "file": "phoenix-wright.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/phoenix-wright.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Pikachu",
+      "author": "t0uchan",
+      "file": "pikachu.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/pikachu.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Pink Ribbon Link",
+      "author": "kan",
+      "file": "pinkribbonlink.3.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/pinkribbonlink.3.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Piranha Plant",
+      "author": "lecremateur",
+      "file": "piranha_plant.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/piranha_plant.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Plague Knight",
+      "author": "Gwenegade",
+      "file": "plagueknight.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/plagueknight.2.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Plouni",
+      "author": "Plouni",
+      "file": "plouni.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/plouni.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "PoC Link",
+      "author": "Nolouls",
+      "file": "poc-link.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/poc-link.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Pokey",
+      "author": "kan",
+      "file": "pokey.3.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/pokey.3.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Popoi",
+      "author": "ItsSupercar",
+      "file": "popoi.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/popoi.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Poppy",
+      "author": "cbass601",
+      "file": "poppy.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/poppy.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Porg Knight",
+      "author": "PorgCollector",
+      "file": "porg_knight.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/porg_knight.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Power Pigg",
+      "author": "looking4giants",
+      "file": "power-pigg.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/power-pigg.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Power Ranger",
+      "author": "Zeta Xero",
+      "file": "power-ranger.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/power-ranger.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Powerpuff Girl",
+      "author": "Gwenegade",
+      "file": "powerpuff_girl.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/powerpuff_girl.2.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Pride Link",
+      "author": "proximitysound",
+      "file": "pridelink.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/pridelink.2.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Primm",
+      "author": "Artheau",
+      "file": "primm.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/primm.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Princess Bubblegum",
+      "author": "Devan2002",
+      "file": "princess_bubblegum.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/princess_bubblegum.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Prof. Renderer Grizzleton",
+      "author": "Professor Renderer",
+      "file": "prof-renderer-grizzleton.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/prof-renderer-grizzleton.2.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "The Professor",
+      "author": "PlaguedOne",
+      "file": "professor.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/professor.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Protogen",
+      "author": "Purple Peak",
+      "file": "protogen.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/protogen.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Psyduck",
+      "author": "skovacs1",
+      "file": "psyduck.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/psyduck.2.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "The Pug",
+      "author": "Achy",
+      "file": "pug.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/pug.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Purple Chest",
+      "author": "Minnie Trethewey",
+      "file": "purplechest-bottle.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/purplechest-bottle.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Pyro",
+      "author": "malmo",
+      "file": "pyro.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/pyro.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "QuadBanger",
+      "author": "Kai Gomez",
+      "file": "quadbanger.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/quadbanger.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Rainbow Link",
+      "author": "kan",
+      "file": "rainbowlink.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/rainbowlink.2.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Randi",
+      "author": "RoodyOh",
+      "file": "randi.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/randi.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Rash",
+      "author": "Fragger",
+      "file": "rash.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/rash.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Rat",
+      "author": "atth3h3art0fwinter",
+      "file": "rat.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/rat.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Red Mage",
+      "author": "TheRedMage",
+      "file": "red-mage.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/red-mage.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Red",
+      "author": "WiipartyU",
+      "file": "red.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/red.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Reimu Hakurei (HoxNorf)",
+      "author": "HoxNorf",
+      "file": "reimu-hoxnorf.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/reimu-hoxnorf.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Reimu Hakurei (RickyofKokiri)",
+      "author": "RickyofKokiri",
+      "file": "reimu-rickyofkokiri.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/reimu-rickyofkokiri.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Remeer",
+      "author": "Herowho",
+      "file": "remeer.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/remeer.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Remus R Black",
+      "author": "The3rdX",
+      "file": "remus-ruldufus-black.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/remus-ruldufus-black.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Renoko",
+      "author": "CreatureUnknown",
+      "file": "renoko.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/renoko.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Reverse Mail Order",
+      "author": "Wild Fang",
+      "file": "reverse-mails.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/reverse-mails.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Rick",
+      "author": "Eric the Terrible/Devan 2002",
+      "file": "rick.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/rick.2.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Robo-Link 9000",
+      "author": "kan",
+      "file": "robotlink.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/robotlink.2.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Rocko",
+      "author": "t0uchan",
+      "file": "rocko.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/rocko.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Rocky",
+      "author": "Charmander106",
+      "file": "rocky.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/rocky.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Roronoa Zoro",
+      "author": "Drieky",
+      "file": "roronoa-zoro.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/roronoa-zoro.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Rottytops",
+      "author": "PlaguedOne",
+      "file": "rottytops.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/rottytops.2.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Rover",
+      "author": "NO Body the Dragon",
+      "file": "rover.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/rover.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Roy Koopa",
+      "author": "Achy",
+      "file": "roykoopa.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/roykoopa.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Rozalyndis",
+      "author": "Unfathomarble",
+      "file": "rozalyndis.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/rozalyndis.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Rumia",
+      "author": "Achy",
+      "file": "rumia.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/rumia.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Rydia",
+      "author": "Sho",
+      "file": "rydia.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/rydia.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Ryu",
+      "author": "PlaguedOne",
+      "file": "ryu.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/ryu.2.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Sailor Jupiter",
+      "author": "Sharpefern",
+      "file": "sailor-jupiter.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/sailor-jupiter.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Sailor Mars",
+      "author": "Sharpefern",
+      "file": "sailor-mars.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/sailor-mars.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Sailor Mercury",
+      "author": "Sharpefern",
+      "file": "sailor-mercury.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/sailor-mercury.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Sailor Saturn",
+      "author": "Gwenegade",
+      "file": "sailor-saturn.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/sailor-saturn.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Sailor Venus",
+      "author": "Sharpefern",
+      "file": "sailor-venus.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/sailor-venus.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Sailor Moon",
+      "author": "Gwenegade",
+      "file": "sailormoon.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/sailormoon.2.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Saitama",
+      "author": "Dabeanjelly/Ath3h3art0fwinter",
+      "file": "saitama.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/saitama.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Samurott",
+      "author": "Lougaroc",
+      "file": "samurott.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/samurott.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Samus (Super Metroid)",
+      "author": "Ben G",
+      "file": "samus-sm.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/samus-sm.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Samus",
+      "author": "Fish_waffle64",
+      "file": "samus.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/samus.2.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Samus (Classic)",
+      "author": "Fish_waffle64",
+      "file": "samus_classic.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/samus_classic.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Sans (Carld923)",
+      "author": "Carld923",
+      "file": "sans-carld.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/sans-carld.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Sans (Tux_66)",
+      "author": "tux_66",
+      "file": "sans-tux.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/sans-tux.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Santa Hat Link",
+      "author": "Lexitik",
+      "file": "santahat-link.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/santahat-link.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Santa Link",
+      "author": "HOHOHO",
+      "file": "santalink.3.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/santalink.3.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Saria",
+      "author": "JaidynReiman",
+      "file": "saria.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/saria.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Scholar",
+      "author": "Damon",
+      "file": "scholar.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/scholar.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Selan",
+      "author": "atth3h3art0fwinter",
+      "file": "selan.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/selan.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "SevenS1ns",
+      "author": "Hroun",
+      "file": "sevens1ns.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/sevens1ns.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Shade",
+      "author": "NO Body the Dragon",
+      "file": "shade.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/shade.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Shadow",
+      "author": "CGG Zayik",
+      "file": "shadow.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/shadow.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Shadow Sakura",
+      "author": "iBazly",
+      "file": "shadowsaku.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/shadowsaku.2.zspr",
+      "usage": [
+        "commercial"
+      ]
+    },
+    {
+      "name": "Love Shak",
+      "author": "Fragger",
+      "file": "shaktool-love.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/shaktool-love.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Shaktool",
+      "author": "Fragger",
+      "file": "shaktool.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/shaktool.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Shantae",
+      "author": "skovacs1",
+      "file": "shantae.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/shantae.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Shiluna",
+      "author": "Nekoni_Hoozuki",
+      "file": "shiluna.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/shiluna.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Shin",
+      "author": "Nekoni_Hoozuki",
+      "file": "shin.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/shin.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Shinmyoumaru Sukuna",
+      "author": "Pasta La Vista",
+      "file": "shinmyoumaru-sukuna.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/shinmyoumaru-sukuna.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Shopkeeper Link",
+      "author": "mm2nescartridge",
+      "file": "shopkeeper-link.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/shopkeeper-link.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Shoujo",
+      "author": "JephWahl",
+      "file": "shoujo.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/shoujo.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Shuppet",
+      "author": "kan",
+      "file": "shuppet.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/shuppet.2.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Shy Gal",
+      "author": "FedoraFriday",
+      "file": "shy-gal.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/shy-gal.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Shy Guy",
+      "author": "skovacs1",
+      "file": "shy-guy.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/shy-guy.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "SighnWaive",
+      "author": "GenoCL",
+      "file": "sighn_waive.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/sighn_waive.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Skunk",
+      "author": "Hiveul",
+      "file": "skunk.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/skunk.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Slime",
+      "author": "KamenRideDecade",
+      "file": "slime.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/slime.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Slowpoke",
+      "author": "Joey_Rat",
+      "file": "slowpoke.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/slowpoke.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "SNES Controller",
+      "author": "cbass601",
+      "file": "snes-controller.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/snes-controller.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Sobble",
+      "author": "Drieky",
+      "file": "sobble.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/sobble.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Soda Can",
+      "author": "Zarby89",
+      "file": "sodacan.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/sodacan.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Sokka",
+      "author": "Sharpefern",
+      "file": "sokka.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/sokka.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Solaire of Astora",
+      "author": "Knilip",
+      "file": "solaire.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/solaire.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Hyrule Soldier",
+      "author": "InTheBeef",
+      "file": "soldiersprite.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/soldiersprite.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Sonic the Hedgehog",
+      "author": "Osaka",
+      "file": "sonic.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/sonic.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Sora",
+      "author": "roxas232",
+      "file": "sora.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/sora.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Sora (KH1)",
+      "author": "ScatlinkSean",
+      "file": "sora_kh1.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/sora_kh1.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Spamton G. Spamton",
+      "author": "Pasta La Vista",
+      "file": "spamton-g-spamton.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/spamton-g-spamton.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Spat",
+      "author": "NO Body the Dragon",
+      "file": "spat.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/spat.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Spiked Roller",
+      "author": "PlaguedOne",
+      "file": "spikedroller.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/spikedroller.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Spiritendo",
+      "author": "Nekoni_Hoozuki",
+      "file": "spiritendo.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/spiritendo.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Spongebob Squarepants",
+      "author": "JJ0033LL",
+      "file": "spongebob.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/spongebob.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Spyro the Dragon",
+      "author": "Drieky",
+      "file": "spyro.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/spyro.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Squall",
+      "author": "Maessan",
+      "file": "squall.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/squall.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Salty Squiddy",
+      "author": "Siletrea",
+      "file": "squiddy.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/squiddy.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Squirrel",
+      "author": "Fish_waffle64",
+      "file": "squirrel.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/squirrel.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Squirtle",
+      "author": "Numberplay",
+      "file": "squirtle.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/squirtle.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Stalfos",
+      "author": "Artheau",
+      "file": "stalfos.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/stalfos.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Stan",
+      "author": "kan",
+      "file": "stan.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/stan.2.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Static Link",
+      "author": "kan",
+      "file": "staticlink.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/staticlink.2.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Steamed Hams",
+      "author": "AFewGoodTaters",
+      "file": "steamedhams.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/steamedhams.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Stick Man",
+      "author": "skovacs1",
+      "file": "stick_man.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/stick_man.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Stitch",
+      "author": "NO_Body_The_Dragon",
+      "file": "stitch.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/stitch.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Super Bomb",
+      "author": "Ninjakauz",
+      "file": "superbomb.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/superbomb.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Super Bunny",
+      "author": "TheOkayGuy",
+      "file": "superbunny.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/superbunny.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Super Meat Boy",
+      "author": "Achy",
+      "file": "supermeatboy.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/supermeatboy.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Susie",
+      "author": "Zandra",
+      "file": "susie.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/susie.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Swatchy",
+      "author": "Minnie Trethewey",
+      "file": "swatchy.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/swatchy.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Swiper",
+      "author": "Purple Peak",
+      "file": "swiper.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/swiper.2.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "SwirlDrop",
+      "author": "happytoaster",
+      "file": "swirldrop.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/swirldrop.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "TASBot",
+      "author": "GenoCL",
+      "file": "tasbot.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/tasbot.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Tea Time",
+      "author": "SirCzah",
+      "file": "teatime.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/teatime.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Teddiursa",
+      "author": "Charmander106",
+      "file": "teddiursa.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/teddiursa.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Terra (Esper)",
+      "author": "All-in-one Mighty",
+      "file": "terra.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/terra.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Terry (Contact DS)",
+      "author": "CD-Mestay",
+      "file": "terry.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/terry.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Tetra",
+      "author": "Ferelheart",
+      "file": "tetra.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/tetra.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "TGH",
+      "author": "Drew Wise, pizza_for_free",
+      "file": "tgh.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/tgh.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "The Robot",
+      "author": "The Corgi King",
+      "file": "the-robot.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/the-robot.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Thief",
+      "author": "Devan2002",
+      "file": "thief.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/thief.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "ThinkDorm",
+      "author": "PlaguedOne",
+      "file": "thinkdorm.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/thinkdorm.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Thomcrow",
+      "author": "Thom",
+      "file": "thomcrow.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/thomcrow.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Tile",
+      "author": "kan",
+      "file": "tile.3.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/tile.3.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Tingle",
+      "author": "Xenobond",
+      "file": "tingle.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/tingle.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "TMNT",
+      "author": "SirCzah",
+      "file": "tmnt.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/tmnt.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Toad",
+      "author": "Zarby89",
+      "file": "toad.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/toad.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Toadette",
+      "author": "Devan2002",
+      "file": "toadette.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/toadette.2.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Captain Toadette",
+      "author": "Devan2002",
+      "file": "toadette_captain.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/toadette_captain.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "TotemLinks",
+      "author": "Yotohan",
+      "file": "totem-links.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/totem-links.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Dr. Treymond Spyre Spyreson III",
+      "author": "Drieky",
+      "file": "treymond.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/treymond.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Trogdor the Burninator",
+      "author": "Minnie Trethewey/kan",
+      "file": "trogdor.3.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/trogdor.3.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Tueffel",
+      "author": "Tueffelchen",
+      "file": "tueffel.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/tueffel.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Tunic",
+      "author": "tosh",
+      "file": "tunic.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/tunic.2.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "TP Zelda",
+      "author": "Fish_waffle64",
+      "file": "twilightprincesszelda.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/twilightprincesszelda.2.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "TwoFaced",
+      "author": "Devan2002",
+      "file": "two_faced.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/two_faced.2.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Ty the Tasmanian Tiger",
+      "author": "Fish_waffle64",
+      "file": "ty.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/ty.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "UFO Kirby",
+      "author": "PlaguedOne",
+      "file": "ufo-kirby.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/ufo-kirby.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Ultros",
+      "author": "PlaguedOne",
+      "file": "ultros.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/ultros.2.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Umbreon",
+      "author": "Drieky",
+      "file": "umbreon.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/umbreon.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Unicorn",
+      "author": "Myric",
+      "file": "unicorn.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/unicorn.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Valeera",
+      "author": "Glan",
+      "file": "valeera.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/valeera.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "VanillaLink",
+      "author": "Gwenegade",
+      "file": "vanillalink.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/vanillalink.2.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Vaporeon",
+      "author": "Aquana",
+      "file": "vaporeon.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/vaporeon.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Vegeta",
+      "author": "Merciter",
+      "file": "vegeta.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/vegeta.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Vera",
+      "author": "aitchFactor",
+      "file": "vera.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/vera.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Vitreous",
+      "author": "Glan",
+      "file": "vitreous.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/vitreous.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Vivi",
+      "author": "RyuTech",
+      "file": "vivi.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/vivi.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Vivian",
+      "author": "SirCzah",
+      "file": "vivian.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/vivian.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Wackerly",
+      "author": "Wackerly",
+      "file": "wackerly.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/wackerly.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Wario",
+      "author": "Deagans",
+      "file": "wario.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/wario.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "White Mage",
+      "author": "TheRedMage",
+      "file": "whitemage.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/whitemage.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Will",
+      "author": "Xenobond",
+      "file": "will.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/will.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Wizzrobe",
+      "author": "iBazly",
+      "file": "wizzrobe.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/wizzrobe.2.zspr",
+      "usage": [
+        "commercial"
+      ]
+    },
+    {
+      "name": "Wolf O' Donnell",
+      "author": "Lougaroc",
+      "file": "wolf.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/wolf.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Wolf Link (Festive)",
+      "author": "Fish/Beef-Chan",
+      "file": "wolf_link.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/wolf_link.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Wolf Link (TP)",
+      "author": "Gfish59",
+      "file": "wolf_link_tp.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/wolf_link_tp.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "WuZaiiii",
+      "author": "Nekoni_Hoozuki",
+      "file": "wuzaiiii.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/wuzaiiii.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Yoshi",
+      "author": "Yotohan",
+      "file": "yoshi.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/yoshi.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Yunica Tovah",
+      "author": "Fish_waffle64",
+      "file": "yunica.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/yunica.2.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Zagreus",
+      "author": "Gwenegade",
+      "file": "zagreus.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/zagreus.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Zandra",
+      "author": "ZandraVandra",
+      "file": "zandra.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/zandra.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Zaruvyen",
+      "author": "Drieky",
+      "file": "zaruvyen.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/zaruvyen.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Zebra Unicorn",
+      "author": "Brass Man",
+      "file": "zebraunicorn.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/zebraunicorn.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Zeck",
+      "author": "aitchFactor",
+      "file": "zeck.3.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/zeck.3.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Zekrom",
+      "author": "Lougaroc",
+      "file": "zekrom.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/zekrom.1.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Zelda",
+      "author": "Myriachan",
+      "file": "zelda.1.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/zelda.1.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    },
+    {
+      "name": "Zero Suit Samus",
+      "author": "Fish_waffle64",
+      "file": "zerosuitsamus.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/zerosuitsamus.2.zspr",
+      "usage": [
+        "smz3"
+      ]
+    },
+    {
+      "name": "Zora",
+      "author": "Zarby, InTheBeef",
+      "file": "zora.2.zspr",
+      "url": "https://alttpr-assets.s3.us-east-2.amazonaws.com/zora.2.zspr",
+      "usage": [
+        "commercial",
+        "smz3"
+      ]
+    }
+  ]
+}
